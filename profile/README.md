@@ -1,12 +1,19 @@
-## Hi there 👋
+## Git Board project
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Team Info
+- team name: open board
+- Team Introduction:
+  The open board team consists of four students majoring in software at Gangnam University.
+  Our final goal is to create an environment where developers can actively participate in open-source projects through the Gitboard project.
+  After completing the basic development, we also want to open the project to open source.
+- Team member
+  <table>
+    <tbody>
+        <tr>
+            <td align="center"><a href="https://github.com/Dev-JihyeMoon"><img src="https://avatars2.githubusercontent.com/u/67064571?v=4?s=100" width="100px;" alt="Back-End"/><br /><sub><b>Back-End(Team Leader)</b></sub><br /></a><br><p>Jihye Moon</p></td>
+            <td align="center"><a href="https://github.com/yoonki1207"><img src="https://avatars.githubusercontent.com/u/17930226?v=4" width="100px;" alt="Back-End"/><br /><sub><b>Back-End</b></sub><br /></a><br><p>yoonki1207</p></td>
+            <td align="center"><a href="https://github.com/EunHyeokJung"><img src="https://avatars.githubusercontent.com/u/69712631?v=4" width="100px;" alt="Team Leader"/><br /><sub><b>Front-end</b></sub><br /></a><br><p>EunHyeokJung</p></td>
+			    	<td align="center"><a href="https://github.com/Lihan00"><img src="https://avatars.githubusercontent.com/u/96524080?v=4" width="100px;" alt="Front-End"/><br /><sub><b>Front-End</b></sub><br /></a><br><p>Lihan00</p></td>
+        </tr>
+    </tbody>
+  </table>
