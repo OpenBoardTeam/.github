@@ -1,4 +1,4 @@
-# Git Board project
+# GitBoard project
 
 ## Team Info
 - team name: open board   
