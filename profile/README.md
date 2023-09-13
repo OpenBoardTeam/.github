@@ -28,7 +28,8 @@
    
   Through the GitBoard project, we aim to further activate open-source projects. Thank you.    
 - Project Tech Stack:
-  ![그림1](https://github.com/w3m-2/.github/assets/67064571/df747412-e382-4ec2-8757-1f447da55447)   
+  ![그림1](https://github.com/w3m-2/.github/assets/67064571/df747412-e382-4ec2-8757-1f447da55447)
+  -- REST API Documentation Tool: Swagger UI
    
 - Inquiry: jihyer0395@gmail.com
 
