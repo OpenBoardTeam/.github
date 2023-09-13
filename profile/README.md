@@ -1,6 +1,6 @@
-## Git Board project
+# Git Board project
 
-### Team Info
+## Team Info
 - team name: open board
 - Team Introduction:   
   The open board team consists of four students majoring in software at Gangnam University.
@@ -18,9 +18,9 @@
     </tbody>
   </table>
 
-### project Info
-- project name: Git Board ( http://gitboard.net/ )   
-  * The website above is in the development phase, so you may see errors. Please report the error to <br>jihyer0395@gmail.com</br> .
+## project Info
+- project name: Git Board ( URL: http://gitboard.net/ )   
+  * The website above is in the development phase, so you may see errors. Please report the error to jihyer0395@gmail.com.
 - Project Introduction:    
   Git Board web service is an archive site where information about open-source projects can be shared.
   Developers can easily explore projects with their desired difficulty levels or objectives in a list format through the Git Board website. Additionally, they can promote their own open-source projects on the Git Board site.
